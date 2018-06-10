@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Blog Post
-category: sample category
+category: demo
 ---
 
 This is just a sample blog post
