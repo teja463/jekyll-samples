@@ -2,7 +2,7 @@
 layout: post
 title: Creating a project in jekyll
 categories: jekyll
-permalink: /jekyll/creating-project
+permalink: /:categories/:title
 ---
 
 # Creating a new Project

@@ -2,7 +2,7 @@
 layout: post
 title: Default Front Matter
 categories: jekyll
-permalink: /jekyll/default-front-matter
+permalink: /:categories/:title
 ---
 
 # Front matter defaults
